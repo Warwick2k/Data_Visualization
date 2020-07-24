@@ -8,4 +8,4 @@ Core of the analysis are the "Posprt Loan data". The file contains a huge amount
 
 The data set is really tidied and clean so data wrangling is just a minor topic here. Main characteristic is the high number of columns and with that different contents.
 
-The first real obvious finding is, that many entries are not valuable as they are too generic. 
+The first real obvious finding is, that many entries are not valuable as they are too generic. E.g. the occuption can be called out as "Other" or "Professional" and as this happend int the majority of cases, these data set cannot be used for proper evaluation.
